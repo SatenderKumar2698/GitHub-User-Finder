@@ -9,6 +9,7 @@ A simple and stylish **GitHub User Finder** application that allows users to sea
 - 🎨 Beautiful and responsive UI with a glassmorphism effect.
 - ⚡ Fast and lightweight, using **HTML, CSS, and JavaScript (Fetch API & Async/Await).**
 
+LIVE DEMO  :  unique-baklava-48cf68.netlify.app
 
 🛠️ Technologies Used
 - HTML5
